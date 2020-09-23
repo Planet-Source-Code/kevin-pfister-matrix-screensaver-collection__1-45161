@@ -1,0 +1,112 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\Kevin\Desktop\Matrix1
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+Agent.jpg=C:\Documents and Settings\Kevin\Desktop\Programming Stuff\My Programming\Programming\DeskTop Source\Matrix Screensaver\Agent.jpg
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\Program Files\Exhedra\PSC\2002VB\tabctl32.ocx=
+C:\WINDOWS\SYSTEM32\scrobj.dll=
+C:\WINDOWS\SYSTEM32\TheMatrix.ocx=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM32\scrrun.dll=
+
+[Package|Standard Setup Package 1|Files Added]
+agent.jpg=
+matrix.ttf=
+matrix.scr.manifest=
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+C:\WINDOWS\SYSTEM32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM32\scrrun.dll=Yes
+C:\WINDOWS\SYSTEM32\msvcrt.dll=Yes
+C:\WINDOWS\SYSTEM32\scrobj.dll=Yes
+C:\WINDOWS\SYSTEM32\mscomctl.ocx=Yes
+C:\WINDOWS\SYSTEM32\COMDLG32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINDOWS\SYSTEM32\TABCTL32.OCX=Yes
+C:\WINDOWS\SYSTEM32\Matrix.scr=Yes
+C:\Documents and Settings\Kevin\Desktop\Programming Stuff\My Programming\Programming\DeskTop Source\Matrix Screensaver\Agent.jpg=Yes
+C:\Documents and Settings\Kevin\Desktop\Programming Stuff\My Programming\Programming\DeskTop Source\Matrix Screensaver\matrix.ttf=Yes
+C:\Documents and Settings\Kevin\Desktop\Programming Stuff\My Programming\Programming\DeskTop Source\Matrix Screensaver\Matrix.scr.MANIFEST=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+C:\WINDOWS\SYSTEM32\Matrix.scr=$(WinPath)\SYSTEM32
+C:\WINDOWS\SYSTEM32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\scrrun.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\msvcrt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\scrobj.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\mscomctl.ocx=$(WinSysPath)
+C:\Program Files\Exhedra\PSC\2002VB\tabctl32.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\COMDLG32.OCX=$(WinPath)\SYTEM32
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Documents and Settings\Kevin\Desktop\Programming\DeskTop Source\Matrix Screensaver\Agent.jpg=$(AppPath)
+C:\Documents and Settings\Kevin\Desktop\Programming\DeskTop Source\Matrix Screensaver\matrix.ttf=$(Font)
+C:\Documents and Settings\Kevin\Desktop\Programming\DeskTop Source\Matrix Screensaver\Matrix.scr=$(WinPath)\SYSTEM32
+C:\WINDOWS\SYSTEM32\TABCTL32.OCX=$(WinSysPath)
+C:\Documents and Settings\Kevin\Desktop\Programming\DeskTop Source\Matrix Screensaver\Matrix.scr.MANIFEST=$(WinPath)\SYSTEM32
+C:\Documents and Settings\Kevin\Desktop\Matrix.scr=$(WinPath)\SYSTEM32
+C:\WINDOWS\SYSTEM32\TheMatrix.ocx=$(WinSysPath)
+C:\Documents and Settings\Kevin\Desktop\Programming Stuff\My Programming\Programming\DeskTop Source\Matrix Screensaver\Agent.jpg=$(AppPath)
+C:\Documents and Settings\Kevin\Desktop\Programming Stuff\My Programming\Programming\DeskTop Source\Matrix Screensaver\matrix.ttf=$(Font)
+C:\Documents and Settings\Kevin\Desktop\Programming Stuff\My Programming\Programming\DeskTop Source\Matrix Screensaver\Matrix.scr.MANIFEST=$(WinPath)\SYSTEM32
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+C:\WINDOWS\SYSTEM32\Matrix.scr=No
+C:\Documents and Settings\Kevin\Desktop\Programming\DeskTop Source\Matrix Screensaver\Agent.jpg=No
+C:\Documents and Settings\Kevin\Desktop\Programming Stuff\My Programming\Programming\DeskTop Source\Matrix Screensaver\Agent.jpg=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=1.2 MB
+Title=The Matrix - Screensavers
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=C:\Documents and Settings\Kevin\Desktop\Matrix1
+ProjectFolder=C:\Documents and Settings\Kevin\Desktop\Programming Stuff\My Programming\Programming\DeskTop Source\Matrix Screensaver
+ServerSideCab=
+File1=C:\Documents and Settings\Kevin\Desktop\Matrix1\setup.exe
+File2=C:\Documents and Settings\Kevin\Desktop\Matrix1\Setup.Lst
+File3=C:\Documents and Settings\Kevin\Desktop\Matrix1\Matrix.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
